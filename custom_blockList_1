@@ -1,3 +1,70 @@
+! ===================================================
+! Custom DNS Blocklist - Filtered from Log Report
+! Syntax: ABP (AdBlock Plus)
+! ===================================================
+
+! ---------------------------------------------------
+! 1. Ad Networks & Tracking (شبكات الإعلانات والتتبع)
+! ---------------------------------------------------
+||www.googleadservices.com^
+||www.googletagmanager.com^
+||www.googletagservices.com^
+||connect.facebook.net^
+||alb.reddit.com^
+||cdn.orangeclickmedia.com^
+||procrustes.orangeclickmedia.com^
+||cmp.inmobi.com^
+||ptb-ba-buyer-5jyy5ulagq-uc.a.run.app^
+||ptb-fledge-static-5jyy5ulagq-uc.a.run.app^
+||cdn.pdst.fm^
+||cdnx.premiumread.com^
+
+! ---------------------------------------------------
+! 2. Telemetry & Analytics (جمع البيانات والتجسس)
+! ---------------------------------------------------
+||analysis.blurams.com^
+||api-edge.askmiso.com^
+||api.appexnw.com^
+||api.embabigames.com^
+||api.oaistatsig.com^
+||eu-mobile.events.data.microsoft.com^
+||mobile.events.data.microsoft.com^
+||self.events.data.microsoft.com^
+||firebase-settings.crashlytics.col^
+||ma-global-config.engagelab.com^
+||ma-sdk-api-usva.engagelab.com^
+||policy.system-usage-report.intel.com^
+||s.youtube.com^
+||samsung-ingestion.edge.hiyaapi.com^
+||samsung-callerprofile.edge.hiyaapi.com^
+||sdk.apicgate.com^
+||survey.survicate.com^
+||surveys-static-prd.survicate-cdn.com^
+||merino.services.mozilla.com^
+||prod-games-particle.merino.prod.webservices.mozgcp.net^
+||prod-images.merino.prod.webservices.mozgcp.net^
+
+! Truecaller Ads & Tracking Subdomains
+||placement-rules-noneu.truecaller.com^
+||tagging-assets-noneu.truecallerstatic.com^
+||tagging5-noneu.truecaller.com^
+||premium-promo.truecallerstatic.com^
+||userapps-noneu.truecallerstatic.com^
+||survey-noneu.truecaller.com^
+
+! ---------------------------------------------------
+! 3. Adult & Inappropriate Content (محتوى إباحي وغير لائق)
+! ---------------------------------------------------
+||hornyunion.itch.io^
+||omega-gamesxxx.itch.io^
+||cdn.fluidplayer.com^
+
+! ---------------------------------------------------
+! 4. Anti-Adblock & Consent Tracking (تتبع الموافقة والإشعارات)
+! ---------------------------------------------------
+||cmp.osano.com^
+||consent.api.osano.com^
+||fundingchoicesmessages.google.com^
 a.klaviyo.com
 aax.amazon-adsystem.com
 ad.doubleclick.net
@@ -207,3 +274,15 @@ popcash.net
 propellerads.com
 sarmady.net
 speakol.com
+cdn.orangeclickmedia.com
+procrustes.orangeclickmedia.com
+cmp.inmobi.com
+cdnx.premiumread.com
+adminp.dameg.net
+ma-sdk-api-usva.engagelab.com
+ma-global-config.engagelab.com
+cmp.osano.com
+consent.api.osano.com
+survey.survicate.com
+surveys-static-prd.survicate-cdn.com
+api-edge.askmiso.com
