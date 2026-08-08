@@ -115,15 +115,11 @@ googleads.g.doubleclick.net
 ads.applovin.com
 d.applovin.com
 rt.applovin.com
-
 ads.chartboost.com
 live.chartboost.com
-
 sdk.iad-01.braze.com
-
 ads.tapjoy.com
 ws.tapjoyads.com
-
 ads.ironsrc.com
 outcome-ssp.supersonicads.com
 ads.startapp.com
@@ -163,7 +159,6 @@ googleads.g.doubleclick.net
 www.googleadservices.com
 ad.doubleclick.net
 static.doubleclick.net
-
 # --- Google Beacons & Firebase Logging ---
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -174,7 +169,6 @@ beacons5.gvt3.com
 beacons.gcp.gvt2.com
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
-
 # --- Mobile Trackers & SDKs ---
 cvhcs0.launches.appsflyersdk.com
 cvhcs0.inapps.appsflyersdk.com
@@ -185,7 +179,6 @@ app.adjust.io
 pushstat-usva.engagelab.com
 analytics.tiktok.com
 analytics.samsungknox.com
-
 # --- Telemetry & Metrics ---
 telemetry.visualstudio.microsoft.com
 incoming.telemetry.mozilla.org
