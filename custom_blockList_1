@@ -153,3 +153,43 @@ nflxsearch.net
 ad.doubleclick.net
 stats.g.doubleclick.net
 cm.g.doubleclick.net
+# --- Sentry & Error Logging ---
+sentry-f66617f8-507.echopath.io
+
+# --- Google Ads & Analytics ---
+www.google-analytics.com
+analytics.google.com
+googleads.g.doubleclick.net
+www.googleadservices.com
+ad.doubleclick.net
+static.doubleclick.net
+
+# --- Google Beacons & Firebase Logging ---
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
+beacons5.gvt3.com
+beacons.gcp.gvt2.com
+firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
+
+# --- Mobile Trackers & SDKs ---
+cvhcs0.launches.appsflyersdk.com
+cvhcs0.inapps.appsflyersdk.com
+cvhcs0.cdn-settings.appsflyersdk.com
+mediation-sg2-log.pangle.io
+app.adjust.com
+app.adjust.io
+pushstat-usva.engagelab.com
+analytics.tiktok.com
+analytics.samsungknox.com
+
+# --- Telemetry & Metrics ---
+telemetry.visualstudio.microsoft.com
+incoming.telemetry.mozilla.org
+metrics-dra.dt.hicloud.com
+metrics-dra.dt.dbankcloud.com
+logbak.hicloud.com
+static.cloudflareinsights.com
