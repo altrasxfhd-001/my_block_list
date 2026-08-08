@@ -291,13 +291,6 @@
 ! ---------------------------------------------------
 ||adminp.dameg.net^
 
-
-! ===================================================
-! Custom DNS Blocklist - New Additions from Log Report
-! Syntax: ABP (AdBlock Plus)
-! Updated: August 2026
-! ===================================================
-
 ! ---------------------------------------------------
 ! 1. Ad Networks & Ad Services (شبكات الإعلانات)
 ! ---------------------------------------------------
@@ -320,17 +313,14 @@
 ||img.engagelab.net^
 ||mmfiles.amp.mcafee.com^
 ||mup.amp.mcafee.com^
-||pay.blurams.com^
 ||presence-grpc-noneu.truecaller.com^
 ||push-callerid-noneu.truecaller.com^
 ||push-token-noneu.truecaller.com^
 ||res.engagelab.net^
 ||search-warnings-noneu.truecaller.com^
 ||search5-noneu.truecaller.com^
-||soul.blurams.com^
 ||topspammers-noneu.truecallerstatic.com^
 ||true-community-noneu.truecaller.com^
-||upns.blurams.com^
 ||engagelab.com^
 
 ! ---------------------------------------------------
