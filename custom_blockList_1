@@ -290,3 +290,67 @@
 ! 8. Unwanted / Misc Tracking Domains (نطاقات أخرى)
 ! ---------------------------------------------------
 ||adminp.dameg.net^
+
+
+! ===================================================
+! Custom DNS Blocklist - New Additions from Log Report
+! Syntax: ABP (AdBlock Plus)
+! Updated: August 2026
+! ===================================================
+
+! ---------------------------------------------------
+! 1. Ad Networks & Ad Services (شبكات الإعلانات)
+! ---------------------------------------------------
+||3.samsung-internet.filter-list-downloads.getadblock.com^
+||6.samsung-internet.filter-list-downloads.getadblock.com^
+||8.samsung-internet.filter-list-downloads.getadblock.com^
+||9.samsung-internet.filter-list-downloads.getadblock.com^
+||gateway-b.offerwall.unity3d.com^
+
+! ---------------------------------------------------
+! 2. Telemetry, Tracking & Bloatware (تتبع وتحليلات الأجهزة والبرامج)
+! ---------------------------------------------------
+||account-noneu.truecaller.com^
+||appcloud.mcafee.com^
+||contact-lists-noneu.truecaller.com^
+||device-safety-noneu.truecaller.com^
+||dns1.blurams.com^
+||endpoints-noneu.truecaller.com^
+||esd.blurams.com^
+||esd.icloseli.com^
+||feature-flags-noneu.truecaller.com^
+||global-websis.engagelab.com^
+||img.engagelab.net^
+||mmfiles.amp.mcafee.com^
+||mup.amp.mcafee.com^
+||pay.blurams.com^
+||presence-grpc-noneu.truecaller.com^
+||push-callerid-noneu.truecaller.com^
+||push-token-noneu.truecaller.com^
+||res.engagelab.net^
+||search-warnings-noneu.truecaller.com^
+||search5-noneu.truecaller.com^
+||soul.blurams.com^
+||topspammers-noneu.truecallerstatic.com^
+||true-community-noneu.truecaller.com^
+||upns.blurams.com^
+||update.blurams.com^
+||engagelab.com^
+
+! ---------------------------------------------------
+! 3. Social Media & Content Blocks (إنستجرام ومحتوى مكمل)
+! ---------------------------------------------------
+||assets.msn.com^
+||i-fallback.instagram.com^
+||scontent-fallback.cdninstagram.com^
+||scontent.cdninstagram.com^
+||test-gateway.instagram.com^
+
+! ---------------------------------------------------
+! 4. Unwanted Game Telemetry & Free Game Distributors
+! ---------------------------------------------------
+||api.embabigames.com^
+||capsule.kolibrigames.com^
+||rocket.kolibrigames.com^
+||transit.cdn-kolibrigames.com^
+||zodiac.kolibrigames.com^
