@@ -353,8 +353,6 @@ ingest.s.telemetry.intel.com
 sur.telemetry.intel.com
 dsadata.intel.com
 classify-client.services.mozilla.com
-normandy.cdn.mozilla.net
-normandy.tombstone.experimenter.prod.webservices.mozgcp.net
 sentry-f66617f8-507.echopath.io
 datarouter.ol.epicgames.com
 
